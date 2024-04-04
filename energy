@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+	<meta name="pinterest" content="nopin" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> 
+	<link rel="icon" type="image/png" sizes="32x32" href=""> 
+	<meta name="description" content="UX strategist & designer" />
+	<meta name="title" content="" />
+	<title>SBAK UX & Strategy</title>
+		<link rel="icon" type="image/png" sizes="32x32" href="src/media/icons/favicon.png"> 
+	<link rel="stylesheet" rel="preload" type="text/css" href="src/style/style.css">
+			<link rel="stylesheet" href="3-6-2/plyr.css" />
+		<link rel="preload" href="src/style/font/HelveticaNowDisplay-Light.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-LightIta.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-Regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-RegIta.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-Medium.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-Bold.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="src/style/font/HelveticaNowDisplay-ExtraBold.woff2" as="font" type="font/woff2" crossorigin>
+</head>
+<body class="preload  about">
+<div class="circle-cursor circle-cursor--dot" style="transform: matrix(1, 0, 0, 1, 8, 153); opacity: 1;"></div>
+<div class="circle-cursor circle-cursor--outer" style="transform: translate3d(-7px, 138px, 0px);"></div>
+<div class="loader"><div class="loader-bouncer"></div></div>
+<div id="preloader" class=""></div>
+<div id="menubackground" class=""></div>
+<header>
+	<a href="index.html" class="no-underline p--small color--black weight--500 split"><span>sbak</span> <span>ux</span></a>
+</header>
+<div id="menu" class=""><svg id="menu-icon" width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect id="Top" fill="#FFFFFF" fill-rule="nonzero" x="0" y="3" width="20" height="2"></rect>
+    <rect id="Middle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="9" width="20" height="2"></rect>
+    <rect id="Bottom" fill="#FFFFFF" fill-rule="nonzero" x="0" y="15" width="20" height="2"></rect>
+</svg></div>
+<nav class="">
+	<article>
+		<div>
+			<p class="p--large weight--400"><a class="opposite-underline " href="index.html">Selected work</a></p>
+			<p class="p--large weight--400"><a class="opposite-underline " href="design.html">Design approach</a></p>
+			<p class="p--large weight--400"><a class="opposite-underline current" href="about.html">Mission</a></p>
+		</div>
+	</article>
+	<article>
+		<div class="">
+		
+			<h3 class="color--gray margin--none">Say hi!</h3>
+			<a href="mailto:sebastianhoeltbak@gmail.com" class="opposite-underline color--nude">email</a>
+		</div>
+		<div class="">
+				<h3 class="color--gray margin--none">Let's connect</h3>
+				<a href="https://www.linkedin.com/in/sebastianh%C3%B8ltbak/" target="_blank" class="opposite-underline color--nude">Linkedin</a>
+		</div>
+	</article>
+</nav>
+<div id="navbg" class=""></div>
+<main><section>
+	
+<article>
+
+Empowering the Energy Sector
+Navigating the Trilemma with Service Design
+
+Setting the stage
+
+The energy market stands apart from other business sectors due to its critical importance to society. Sam Altman, CEO of OpenAI, recently said in an interview that he thinks “Compute will be the currency of the future”, implicitly emphasizing how energy is the backbone of modern life – powering industries, transportation, homes, and essential services. This societal dependence means decisions in the energy sector have far-reaching consequences. Energy companies must balance the need for immediate, reliable energy with the long-term imperative of transitioning to sustainable sources, all while navigating complex regulatory frameworks and geopolitical risks (Helm, 2022).
+Unlike fast-moving consumer markets, energy infrastructure projects require enormous capital investments that necessitate decades-long planning cycles. This means companies must be acutely aware of emerging trends and make informed decisions that align with both near-term needs and the shift toward renewable energy. 
+And as traditional energy companies shift from the predictable, one-directional market of yesterday to the volatile, decentralized, bi-directional, service-based market of the future, they encounter unparalleled obstacles in areas ranging from new business models and internal operations to regulatory complexity, renewable energy integration, and the untangling of digital legacy landscapes.
+Moreover, the war in Ukraine has thrown a spotlight on the energy sector's vulnerabilities. It underscored the urgent need to diversify energy sources and build resilience. The industry now faces additional pressure in meeting global energy demands while simultaneously alleviating the societal impacts of these disruptions.
+While the challenges and urgency are well known, effective solutions are hard to come by. This article examines how service design, with its focus on strategic frameworks and risk reduction, acts as a bridge builder, equipping traditional energy companies to identify overlooked opportunities and develop solutions to overcome the challenges they face. Articles about design often have a focus on the B2C consumer experiences, while the major transformative impact for the planet sits in tackling the challenges of the large energy-consuming industries in the B2B area. And here, the energy sector has historically focused on optimizing technical systems, often neglecting the human in the loop. Service design, however, offers a systematic approach for navigating the complexities of existing legacy systems to new business models. This isn't just about the interaction between company and customer; it encompasses the whole energy ecosystem – industry partners, policymakers, employees, and environmental impact. 
+While pockets within the energy sector recognize the value of service design, widespread trust in its transformative potential remains limited. This article aims to bridge that gap by demonstrating how service design offers a strategic framework for addressing some of the core challenges of the energy trilemma: ensuring energy security, affordability, and environmental sustainability.
+We'll delve into practical applications of service design for traditional energy companies. This includes navigating operational complexities surrounding legacy infrastructure, overcoming a commodity-driven mindset, and fostering trust through evidence-based solutions that mitigate uncertainties during transformation.
+This marks a holistic shift towards service-focused organizations supplying people-centric solutions that propel the industry into a sustainable future. To fully grasp the role of service design within this transformation, let's first explore the fundamental concept behind the energy trilemma.
+The Invisible Hands of Energy
+In my early university days, I studied how people experience and perceive the world around them - a field known as phenomenology. Among the thinkers who left a lasting impression was Maurice Merleau-Ponty. His concept of "intertwined existence," laid out in his groundbreaking work 'The Visible and the Invisible’, painted a picture of our world not as a collection of separate entities, but as a complex dance of influence. Our actions, often with unseen consequences, shape the world around us, just as the world shapes our very experiences.
+Fast forward to years later, and me working in a completely different field as Head of Design for the digital arm of Shell Renewables & Energy Solutions, this concept unexpectedly resurfaced as a helpful lens to view the challenges faced by the energy industry. On February 22nd, 2022, I was conducting a series of workshops in London on Shell's digital strategy for the coming year. But this morning the news was dominated by the unfolding crisis in Ukraine, casting a long shadow over our discussions and rapidly impacting plans. This event sadly highlighted the critical need to achieve a balance between energy security, sustainability, and affordability, but also showcased the challenge for large energy majors to rapidly adapt to new circumstances.
+A dangerous Dance 
+The energy trilemma presents a complex balancing act for the energy sector. It grapples with ensuring a stable and reliable energy supply (security), minimizing environmental impact (sustainability), and keeping costs affordable. These three priorities are constantly at odds, with progress in one area often coming at the expense of another.
+Traditional approaches to energy often operate in silos, optimizing for one aspect of the trilemma while potentially neglecting others. This can lead to a proliferation of point solutions that address immediate needs but lack cohesion and create a sprawling brownfield landscape of outdated technologies. Enter Service Design with its focus on connections, interdependencies, and opportunities. Unlike delivery-focused approaches that might prioritize rapid output, service design brings an emphasis on evidence and dependencies - in essence “slowing down to speed up” development in the long run. This ensures that the vast resources and engineering talent within the sector are working towards solutions with clear purpose and value. Furthermore, service design helps to avoid the accumulation of tech debt – a hidden cost associated with poorly designed and implemented digital solutions. By taking a user-centric approach and focusing on long-term value, service design ensures that digital development supports the overall strategic goals of the energy sector.
+For many consumers, affordable energy is a basic necessity. However, keeping energy costs low can come at the expense of environmental sustainability, as cheaper options may rely on polluting sources. This creates a double bind – prioritizing affordability can limit our ability to invest in cleaner, but often more expensive, renewable energy sources. Affordability depends on a mix of market dynamics, regulatory hurdles and technological advancements.To ensure digital solutions are both desirable and create genuine impact, the IDEO framework of desirability, viability, and feasibility (DVF) is often employed. By collaborating with product, business, and engineering teams, service design facilitates the DVF lens to explore new revenue models, such as energy efficiency subscriptions, moving beyond a sole focus on selling fuel units. Additionally, service design's mapping of processes and stakeholder relationships offers strategic insights. This allows energy companies to strategically introduce digital innovations into existing infrastructure, maximizing success while avoiding costly overhauls.This risk-mitigating approach likely temper some of the hype around emerging energy technologies, where iterative cycles of testing and research steps in to help energy companies navigate hype cycles, focusing on solutions with proven viability to make informed investments.
+Within Shell this has in pockets been tackled through processes that ensures that incoming demand for digital development is taken through stage gates that seeks to provide appropriate evidence for moving forward, while facilitating collaboration and understanding dependencies in between relevant silos.  
+
+
+
+
+
+
+Tackling the demands of heavy industry
+As mentioned, the B2B energy sector holds the key to the energy transition and for industries like cement, steel, and large-scale manufacturing, this presents a unique set of difficulties. These businesses are inherently energy-intensive, with core processes that require significant energy input, making significant emissions reduction a major hurdle. Existing production technologies might not be easily adaptable to cleaner alternatives, and research and development for new, low-carbon processes requires substantial investment. Even if cleaner technologies are identified, businesses need to balance environmental goals with the very real pressure to remain competitive. Transitioning to cleaner energy sources or implementing carbon capture technologies can be expensive, and passing on those costs to consumers can erode market share. To add to this, many large energy providers grapple with "brownfield digital landscapes" – complex IT systems built and layered over time. These legacy systems can be cumbersome and inefficient, hindering data analysis and hindering the adoption of new technology
+When Solutions Create Problems
+The energy sector thrives on a foundation of reliability and consistent service – a crucial necessity in a world so reliant on power. This emphasis on stability, however, creates unique obstacles in the transition toward a more sustainable and innovative energy future.
+One key challenge facing many energy companies today is the "commodity mindset."  Traditional energy companies have often functioned on a model that emphasizes selling quantifiable units of energy (e.g., kilowatt-hours, barrels of oil). While necessary, this singular focus can stifle the development of broader, customer-centric service solutions needed to meet the demands of a changing market.
+Additionally, power plants, distribution networks, and internal business systems within many energy companies were designed for a different technological era. These legacy infrastructure constraints can make them inflexible, lacking in modern data analysis capabilities. This makes adapting to a rapidly evolving energy landscape difficult, often leading to slower adoption of renewable technologies and a general hesitancy towards embracing disruptive innovations.
+The pace of change in energy technologies like solar power, battery storage, and smart grid solutions is another hurdle. For traditional energy companies with long-term investment cycles and more rigid structures, deciding which innovations hold true potential and which are merely fads becomes a major obstacle.
+Case Study: Octopus Energy
+Octopus Energy serves as an example of a company challenging these barriers. Their Kraken platform (a cloud-based energy management system) demonstrates how innovative service design can unlock powerful benefits, even within a legacy environment.  The Kraken platform enables flexible pricing models, allowing customers to tap into cheaper energy during less busy periods. It enhances customer interaction, building trust through more transparent offerings, and seamlessly incorporates renewable energy sources into the grid, reducing reliance on fossil fuels.
+
+Practical Applications of Service Design in the Energy Sector
+
+Operational Efficiency
+Service design isn't just about the customer-facing experience; it can transform internal operations too. By carefully mapping out processes across the energy company, from billing and customer service to grid maintenance, inefficiencies and bottlenecks can be exposed. Rethinking these workflows doesn't just improve the company's bottom line; it directly impacts customer satisfaction by reducing issues like long wait times or inaccurate bills. This smoother experience also boosts employee morale, as their own jobs become less focused on mitigating problems and more focused on delivering proactive services.
+New Business Models
+The shift away from fossil fuels requires energy companies to break free from the traditional mindset of simply selling units of energy. Service design pushes for value creation. Instead of selling kilowatt-hours, companies can offer packages for in-depth energy efficiency audits, complete with consultations and financing options for upgrades. They could bundle smart home devices with the focus on optimization, allowing customers direct control over their usage. Or, consider subscription plans that move risk away from the consumer by focusing on performance guarantees – a home at a comfortable temperature for a set monthly price. These models create a much deeper connection between energy providers and their customers.
+Building Trust
+The energy trilemma impacts all of society. Affordability, sustainability, and evolving energy needs are no longer niche concerns. Service design principles can promote transparency through clear communication of energy data and solutions-based approaches that are easy for the public to understand.  Engaging with communities through design thinking workshops opens up channels for customers to voice concerns and co-create solutions. This builds a sense of shared responsibility and trust between utilities and their customers.
+
+Case Study: Kaluza
+Kaluza, with its focus on intelligent energy solutions, exemplifies how applying service design principles can benefit everyone involved. Their Vehicle-to-Grid (V2G) technology allows electric vehicle owners to sell excess stored energy back into the grid during peak demand. This benefits the grid by providing stability (sustainability), reduces costs for the company, and puts extra income in the hands of EV owners (affordability). Kaluza demonstrates the power of service design – transforming energy companies from mere suppliers into collaborative partners working with customers to solve larger energy challenges.
+
+Reimagining Operating Models for Agility and Resilience
+Blueprinting for Transparency: Service blueprinting, a core service design tool, visually maps out all the interactions and touchpoints involved in a process (including those invisible to the customer). This is exceptionally valuable for B2B, where complex behind-the-scenes operations directly affect the client experience. Blueprinting makes it easier to spot optimization opportunities and fosters collaboration between different teams involved in delivering a service.
+Data as a Design Material: Service design treats data as an essential element in designing better solutions. For B2B energy contexts, this means focusing on data flows between the company and its industrial clients. Consider: What data does the client need to optimize their energy usage? How can it be delivered in a clear and actionable format (dashboards, customized reports)? Conversely, what data does the energy company need to best serve their clients?
+Employee Experience (EX) is Key: In B2B services, employees who interact with clients are a crucial touchpoint. Service design principles can optimize these interactions. Tools like journey maps from the employee's perspective can identify pain points in their processes (like outdated customer data), empowering them to offer better service.
+Case Study Revision: Adjust the Vattenfall example to highlight B2B potential. Perhaps their complex legacy systems pose a major issue not only for individual customers but also for their large industrial clients who need detailed, accurate data for their own sustainability reporting. The redesigned process could address this B2B pain point specifically.
+
+
+Chapter Title: Reimagining Operating Models for Agility and Resilience
+Legacy Systems: Enemy of Innovation
+Traditional energy companies often rely on operating models built over decades. While stability is crucial in this sector, these outdated systems often create silos, slow decision-making, and hinder the ability to integrate cutting-edge technologies needed for the energy transition. Rigid workflows, disconnected data sources, and overly complex processes built on legacy IT infrastructure form a barrier between an energy company and the rapidly changing market it needs to navigate.
+Service Design Meets Operations
+Service design isn't just about the customer experience. By applying its lens internally, it can transform operations for improved efficiency and adaptability:
+Process Mapping: Detailed mapping of existing processes, from customer service inquiries to maintenance of power plants, exposes bottlenecks, redundancies, and pain points for employees. This creates tangible starting points for optimization.
+User-Focused Workflows: Redesigning these processes with employees, as the users, at the center creates smoother, more intuitive workflows. This not only saves time but boosts morale by removing unnecessary friction from daily work.
+Modular and Adaptable Models: Service design helps break down operating models into smaller, interconnected components. This allows companies to adapt more easily as technologies, regulations, or customer demands shift. Think of it as building with adaptable blocks instead of a rigid structure.
+Data Everywhere: Service design champions data integration across silos. This enables real-time insights into operational efficiency, helping identify issues early and empowering teams to proactively address them.
+
+Case Study: Shell
+A major energy company like Shell might face issues with slow and error-prone billing processes due to a mix of outdated and incompatible software. A service design intervention maps the entire billing journey from meter readings to invoice generation. It finds that manual data transfers between systems and unclear customer communication channels are root problems. The redesigned process could include automated meter data integration, user-friendly customer portals for managing payments, and proactive notifications with clear explanations of charges. These streamline the process for both customers and Shell, reducing operational costs and increasing customer satisfaction.
+
+Chapter Title: Beyond the Kilowatt-Hour: New Business Models for the Energy Transition
+The Shift from Units to Solutions
+Historically, energy companies focused on selling a measurable commodity – a kilowatt-hour of electricity or a barrel of oil. Service design pushes them to think holistically. Instead of just energy, companies should consider themselves to be in the business of enabling customers to achieve their goals (a comfortable home, a productive manufacturing process, a sustainably powered business) in ways that promote the energy transition.
+Service Design Toolkit for Business Model Innovation
+Here's how service design drives new business models:
+Empathy-Driven Hypothesis: In-depth research with customers uncovers unmet needs or pain points that traditional offerings don't solve. These become the seeds for innovative models. Service design teams might investigate why a small factory struggles with energy costs and identify that they lack expertise to optimize consumption patterns.
+Business Model Canvas: This tool aids in breaking down components of a new model (revenue streams, value proposition, etc.) It is used collaboratively with stakeholders from sales, operations, and finance.
+Rapid Prototyping and Testing: Service design advocates for small-scale, low-risk pilots of new models. This could be a performance-based subscription offered to a select group of businesses before a full launch. Data and feedback are gathered to refine the model before wider rollout, minimizing risk.
+Examples of Emerging Business Models
+Performance-Based Subscriptions: Energy companies could offer plans based on guaranteed indoor temperature ranges, with smart technology ensuring efficiency is achieved on their end. This shifts risk away from the consumer.
+Energy as a Service (EaaS): An industrial client could pay for the output of lighting on their factory floor rather than buying bulbs and electricity. This model incentivizes the energy provider to install the most efficient and durable solutions for long-term benefits.
+Peer-to-Peer Energy Trading: Service design helps create user-friendly platforms connecting homes and businesses with excess solar generation to their neighbors, reducing grid reliance. Blockchain technology and clear pricing structures are core elements of these models.
+Overcoming Barriers: Regulations and Legacy Mindsets
+Service design aids in navigating these complexities through co-creation workshops with regulators to showcase the benefits of new models or iterative launches that gather data to mitigate concerns about untested models with key stakeholders.
+Let me know if you'd like further detail within any part of these chapters!
+
+
+–
+The B2B energy sector is wrestling with a complex web of challenges. Industries like cement, steel, and large-scale manufacturing are inherently energy-intensive. Their core processes require significant energy input, making significant emissions reduction a major hurdle. Existing production technologies might not be easily adaptable to cleaner alternatives, and research and development for new, low-carbon processes requires substantial investment. Even if cleaner technologies are identified, businesses need to balance environmental goals with the very real pressure to remain competitive. Transitioning to cleaner energy sources or implementing carbon capture technologies can be expensive, and passing on those costs to consumers can erode market share.
+Further complicating the picture is the ongoing energy transition in Europe, often referred to as the Energiewende. Germany's ambitious goal of a sustainable energy future is commendable, but integrating a growing reliance on renewable sources like wind and solar into the existing grid infrastructure poses a significant challenge. Balancing supply and demand from intermittent sources requires additional solutions like energy storage, which adds another layer of complexity. Policymakers are constantly revising regulations and carbon pricing schemes, which can create uncertainty for businesses planning long-term investments in clean energy solutions. This uncertainty can lead to a reluctance to invest, hindering progress towards a more sustainable future. Additionally, there's a concern that stringent European regulations might put European companies at a disadvantage compared to competitors in regions with less ambitious climate targets.
+Legacy burdens also weigh heavily on the B2B energy sector, particularly for large energy providers. Many grapple with "brownfield digital landscapes" – complex IT systems built and layered over time. These legacy systems can be cumbersome and inefficient, hindering data analysis and hindering the adoption of new technologies.
+However, there's a powerful tool available to help navigate this complex landscape: service design. Service design workshops can act as a bridge, fostering collaboration between energy producers, even those burdened by legacy systems, and large industrial consumers. By facilitating open communication and understanding the specific needs and challenges of each industry, service designers can develop customized service models for energy procurement and consumption. These models can incentivize businesses to adopt cleaner practices by offering benefits like pay-as-you-go schemes that reward reduced energy use during peak hours. Microgrid solutions, where businesses collaborate to generate and share renewable energy, can also be explored, reducing reliance on traditional sources and fostering a more collaborative energy ecosystem.
+For the businesses themselves, service design empowers them to manage their energy footprint. User-friendly dashboards, designed with service design principles, provide real-time data on energy usage. This allows businesses to identify areas for improvement and implement targeted energy-saving measures. Service design also fosters transparency. It helps producers develop clear pricing structures and provide regular reports on their energy mix, building trust and encouraging businesses to make informed decisions about energy consumption.
+In conclusion, the B2B energy sector faces a multitude of challenges on the path to a sustainable future. High energy intensity, technological hurdles, and cost pressures can make emissions reduction difficult for industries like cement and steel. The ongoing Energiewende in Europe, with its focus on grid integration, policy uncertainty, and potential for a non-level playing field, adds another layer of complexity. Burdened by legacy systems, large energy providers also struggle to adapt. However, service design offers valuable assistance. By fostering collaboration, innovation, and data-driven decision-making, service design can empower businesses to achieve their environmental goals while maintaining competitiveness. It can act as a bridge between energy producers and consumers, as well as between the present and the future, helping to integrate new technologies with existing infrastructure. Ultimately, service design can pave the way for a more efficient, collaborative, and sustainable energy ecosystem in Europe.
+The Energy Maze: A Service Design Guide to a Sustainable Future
+
+Rethinking Energy: From Commodities to Services
+
+The energy sector is undergoing a fundamental shift, transitioning from a world dominated by commodity thinking to a service-oriented future. This chapter explores how service design empowers energy companies to navigate this transformation, fostering the creation of innovative new products and business models that drive the adoption of renewable energy sources.
+
+From Commodities to Services: A Paradigm Shift
+
+Traditionally, energy companies have focused on selling energy as a commodity, measured in kilowatt-hours or barrels of oil.  However, consumer expectations are evolving.  Customers are increasingly seeking not just energy, but an integrated energy experience that aligns with their sustainability goals and delivers tangible value beyond simply powering their homes or businesses. Service design sits at the heart of this paradigm shift, enabling a user-centric approach that puts customer needs at the forefront.
+
+Unlocking the Power of Data: New Products for a New Era
+
+Data is the cornerstone of the service-oriented energy sector. Service design equips companies to leverage customer data effectively, fostering the development of innovative new products and services that meet the evolving needs of consumers. Here are some specific examples:
+Creating New Energy Products: Leveraging Data for Renewable Transition
+Discussion: Explore how data visibility on customer behavior can drive the creation of new energy products, facilitating the transition to renewable energy sources.
+Data is the new oil, and service design helps leverage it. Imagine analyzing customer energy usage to create customizable Power Purchase Agreements (PPAs). These tailor-made contracts optimize cost savings and seamlessly integrate renewable energy sources for businesses.
+Example 1: Personalized Power Purchase Agreements (PPAs)
+Service design empowers energy companies to analyze customer energy usage patterns through smart meter data. Based on these insights, service designers can co-create customized PPAs that integrate renewable energy sources like solar or wind power. For example, a small business owner with high daytime energy consumption could be offered a PPA with a local solar farm, reducing reliance on traditional energy sources during peak consumption periods and lowering overall costs. This not only benefits the business by optimizing energy costs and promoting sustainability but also contributes to a more sustainable energy mix for the grid.
+Example 2: Dynamic Pricing Models Based on Real-Time Data
+By analyzing real-time energy usage data, service design paves the way for dynamic pricing models that incentivize responsible energy consumption and facilitate the integration of renewables. Imagine a mobile app developed through service design principles that allows homeowners to track their energy consumption in real-time, view the current energy mix on the grid (including the availability of renewable sources), and adjust their usage patterns accordingly.  This empowers consumers to make informed choices, potentially shifting non-critical energy consumption to off-peak hours when renewable energy sources are more abundant. Dynamic pricing models based on real-time data can incentivize this shift, rewarding consumers for responsible energy consumption and facilitating a more efficient and sustainable energy grid.
+
+Beyond Products: New Service Models for a Sustainable Future
+Service design extends beyond product creation, enabling the development of innovative service models that enhance the customer experience and support the transition to renewable energy. Here are a few examples:
+Demand Response Programs: Service designers collaborate with energy providers and industrial clients to create user-friendly platforms that empower businesses to actively manage their energy consumption during peak demand periods. This not only helps businesses reduce costs but also contributes to a more stable and efficient overall energy grid.
+Energy Management Systems for Manufacturing: Service designers work with stakeholders across the manufacturing supply chain to create tailored energy management systems that integrate with existing production processes. These systems provide real-time data on energy usage, allowing businesses to identify opportunities for optimization and implement energy-saving practices.
+Integrated Sustainability Solutions: Service design plays a crucial role in developing comprehensive sustainability solutions for B2B clients. This includes assessments of energy consumption, waste management, and resource efficiency. Service designers collaborate with businesses to co-create sustainability strategies that align with corporate goals, regulatory requirements, and industry standards. These holistic solutions enhance the environmental performance of B2B clients while optimizing operational efficiency.
+By leveraging data and embracing service design principles, energy companies can move beyond the commodity mindset and cultivate a service-oriented approach that delivers innovative products and services, empowers customers, and facilitates a smooth transition towards a sustainable energy future.
+
+Challenges and Opportunities for Carbon Neutrality
+Reducing carbon emissions and achieving carbon neutrality in the energy sector is an ambitious yet essential goal. While the challenges are significant, they are intertwined with exciting opportunities:
+Challenges:
+Legacy Infrastructure: Traditional energy companies like Shell rely heavily on existing infrastructure designed for fossil fuels. Transitioning this infrastructure to accommodate renewable energy sources requires substantial investment and logistical planning.
+Industrial Electrification: Many industrial processes, particularly in sectors like steel, cement, and chemicals, are highly reliant on fossil fuels for the intense heat required. Electrifying these processes requires significant technological advancements and grid upgrades to handle the increased demand.
+Consumer Behavior: Shifting consumer habits towards energy efficiency and responsible consumption is crucial for achieving carbon neutrality. This necessitates educational initiatives and user-friendly tools to empower consumers to make sustainable choices.
+Opportunities:
+Renewable Energy Integration: Service design can help companies like Shell develop innovative solutions for integrating renewable energy sources like wind and solar into the existing grid. This may involve data-driven grid management systems and dynamic pricing models that incentivize renewable energy use during peak production times.
+Carbon Capture and Storage (CCS): Service design can play a role in the development and deployment of CCS technologies, which capture carbon emissions from industrial processes and store them underground. This involves designing user-friendly monitoring systems and transparent communication strategies to address public concerns surrounding CCS.
+Circular Economy Principles: Encouraging a circular economy within the energy sector presents a significant opportunity. Service design can help companies develop systems for material reuse and recycling within their operations, reducing reliance on virgin resources and associated carbon footprint.
+Service Design for B2B Collaboration: Empowering Traditional and Industrial Partners
+The people-centric approach of service design extends beyond B2C interactions. It has the potential to transform B2B energy markets, fostering collaboration between traditional energy companies like Shell and large industrial clients struggling to electrify their processes. Here's how:
+Addressing Challenges for Traditional Energy Companies:
+Legacy System Modernization:  Service design can help traditional energy companies like Shell modernize their legacy infrastructure by focusing on user needs.  This may involve co-creating solutions with engineers and technicians to develop user-friendly interfaces for control systems and maintenance procedures, facilitating a smoother transition to renewable energy integration.
+Developing B2B Service Offerings:  Service design empowers companies like Shell to create tailored solutions for industrial clients. This involves user research to understand the specific challenges faced by different industries in their electrification journey.  For example, service designers could collaborate with a steel manufacturer to develop a customized roadmap for electrifying specific aspects of their production process, considering factors like heat intensity requirements and grid capacity limitations.
+Risk Management and Scenario Planning:  Service design workshops can facilitate collaboration between energy companies and industrial clients to identify potential risks and opportunities associated with the transition towards carbon neutrality.  By conducting scenario planning exercises, companies can develop contingency plans and make informed decisions about resource allocation and technological investments.
+Supporting Industrial Electrification:
+Heat Decarbonization Strategies: Service design can support the development of innovative solutions for industrial heat decarbonization. This may involve co-creation workshops with engineers and industry experts to explore alternative technologies like bioenergy, geothermal, or electric furnaces for specific applications.
+Energy Efficiency Optimization: Service design can help industrial clients identify and implement energy efficiency measures within their facilities.  Through user research and data analysis, service designers can identify areas of significant energy consumption and co-create solutions for process optimization or equipment upgrades with plant operators and engineers.
+Demand Response Programs:  Service design can be used to develop user-friendly demand response programs for industrial clients.  These programs incentivize businesses to reduce their energy consumption during peak demand periods, alleviating stress on the grid and allowing for greater integration of renewable energy sources.
+By embracing service design as a strategic tool, both traditional energy companies and large industrial clients can navigate the complexities of the energy transition with greater collaboration and user-centricity. Through a focus on co-creation and understanding the unique challenges faced by each stakeholder, service design offers a pathway towards a more sustainable and secure energy future for all.
+
+Flexibility as a Strategic Advantage:
+
+In the dynamic B2B energy markets, flexibility is a key differentiator. Service design empowers businesses to design adaptive and scalable solutions that can seamlessly evolve with changing market dynamics.
+Through iterative prototyping and user feedback, service design allows energy companies to create solutions that are responsive to the shifting needs of B2B clients. This flexibility extends to pricing models, contract structures, and service delivery, ensuring that businesses can swiftly adapt to new technologies, regulations, and market trends. The result is a strategic advantage that positions companies to navigate the complexities of the B2B energy landscape with agility and resilience.
+Streamlining Logistics for Operational Excellence:
+Efficient logistics are integral to the success of B2B energy transactions, where reliability and timeliness can significantly impact the bottom line. Service design offers a comprehensive approach to streamline logistical processes, from energy generation and distribution to maintenance and support.
+
+By mapping out the end-to-end service journey, energy companies can identify opportunities for optimization and efficiency gains. This may involve leveraging digital technologies for real-time monitoring, predictive maintenance, and seamless communication. Service design principles enable businesses to enhance their operational excellence, providing B2B clients with reliable and efficient energy services.
+
+Demand Response Programs: In the B2B space, service design has been employed to develop and optimize demand response programs. Service designers collaborate with energy providers and industrial clients to create responsive and user-friendly platforms that allow businesses to actively manage their energy consumption during peak demand periods. This not only helps businesses reduce costs but also contributes to a more stable and efficient overall energy grid.
+
+
+Energy Management Systems for Manufacturing: Service design has historically played a crucial role in the development of energy management systems for manufacturing facilities. By engaging with stakeholders across the supply chain, service designers can create tailored solutions that integrate with existing production processes. These systems provide real-time data on energy usage, allowing businesses to identify opportunities for optimization and efficiency improvements.
+
+
+Integrated Sustainability Solutions: Service design has been instrumental in developing integrated sustainability solutions for B2B clients. This includes comprehensive assessments of energy consumption, waste management, and resource efficiency. Service designers collaborate with businesses to co-create sustainability strategies that align with corporate goals, regulatory requirements, and industry standards. These holistic solutions enhance the environmental performance of B2B clients while optimizing operational efficiency.
+Blockchain-Based Energy Trading Platforms: In B2B energy markets, service design has been applied to the development of blockchain-based platforms for energy trading. Service designers work with energy producers and consumers to create intuitive interfaces and transparent systems that facilitate peer-to-peer energy transactions. This decentralized approach empowers businesses to buy and sell energy directly, promoting flexibility, reducing costs, and fostering a more resilient energy ecosystem.
+Energy Storage Solutions for Commercial Buildings: Service design has historically been applied to the development of energy storage solutions tailored for commercial buildings. By understanding the unique energy needs and operational patterns of businesses, service designers collaborate with energy storage providers to create systems that ensure a reliable and resilient energy supply. This includes the integration of smart controls and predictive analytics to optimize energy usage and reduce demand charges for B2B clients.
+Comprehensive Energy Audits for Corporate Facilities: Service design has been utilized in conducting comprehensive energy audits for large corporate facilities. By engaging with facility managers, employees, and energy specialists, service designers identify opportunities for energy efficiency improvements. The result is a set of actionable recommendations that not only reduce operational costs but also enhance the sustainability profile of B2B clients.
+Supply Chain Energy Optimization: Service design principles have been employed to optimize energy usage within B2B supply chains. Collaborating with manufacturers, distributors, and logistics partners, service designers map out the entire supply chain process. This allows for the identification of energy-intensive steps and the implementation of solutions to reduce overall energy consumption, lower costs, and improve the environmental footprint of the entire supply chain.
+These examples illustrate the diverse applications of service design in the B2B energy sector, showcasing its adaptability in addressing specific challenges faced by businesses in energy consumption, management, and sustainability.
+
+
+
+Examining the Evolving Regulatory Landscape
+Several key trends are shaping the regulatory landscape in the energy industry:
+Focus on Renewable Energy Deployment: Governments are prioritizing renewable energy deployment to combat climate change and achieve energy security. This translates to policies like feed-in tariffs that guarantee a fixed price for renewable energy sold back to the grid, renewable energy quotas that mandate a certain percentage of energy comes from renewable sources, and streamlined permitting processes for renewable energy projects.
+Service Design in Action: Imagine a service design team collaborating with a traditional energy company like Shell. Through user research and workshops, they can co-create a comprehensive strategy to integrate renewable energy sources like wind and solar into the existing grid. This may involve developing user-friendly interfaces for data-driven grid management systems and dynamic pricing models that incentivize renewable energy use during peak production times.
+Stringent Carbon Emission Regulations: Regulatory bodies are introducing stricter carbon emission limits to incentivize companies to reduce their environmental footprint. This can involve carbon pricing mechanisms like carbon taxes or cap-and-trade schemes, where companies can buy and sell emission allowances.
+Service Design in Action: A service design team can help a company like Shell develop a carbon footprint assessment tool. This user-friendly tool could analyze a company's energy consumption across its operations, allowing them to identify areas for reduction and potential cost savings. Additionally, service designers can collaborate with engineers to explore carbon capture and storage (CCS) technologies, designing user-friendly monitoring systems and transparent communication strategies to address public concerns surrounding CCS.
+Decentralization and Distributed Energy Resources (DERs): Regulatory frameworks are evolving to accommodate the growing adoption of DERs like rooftop solar panels and microgrids. This involves policies that encourage interconnection with the central grid, simplify net metering processes (where customers receive credits for excess energy produced), and provide incentives for energy storage solutions.
+Service Design in Action: Service designers can work with a utility company to develop user-friendly programs that encourage and streamline the adoption of DERs for residential and commercial customers. This may involve designing online portals for interconnection applications, creating educational materials about net metering benefits, and co-creating user interfaces for smart home energy management systems.
+Cybersecurity and Data Privacy: As the energy sector becomes increasingly digitalized, regulations are being implemented to address cybersecurity threats and ensure the protection of customer data.
+Service Design in Action: Service designers can collaborate with IT security teams to develop user-friendly cybersecurity training programs for employees across the organization. These programs can raise awareness of potential cyber threats, best practices for secure password management, and reporting procedures for suspicious activity.
+Strategies for Compliance and Growth in a Regulatory Maze
+Developing Agile Regulatory Compliance Frameworks: Service design, as discussed earlier, plays a crucial role in developing agile compliance frameworks. This involves:
+Continuous Monitoring: Service designers can help establish processes for continuously monitoring regulatory changes through industry publications, government websites, and stakeholder engagement.
+Risk Assessments: Using service design workshops, companies can collaborate with legal and compliance teams to identify potential risks associated with new regulations.
+Adapting Internal Processes: Service design principles can be used to streamline internal processes and workflows to ensure adherence to new policies.
+Building a Culture of Compliance: Fostering a culture of compliance within the organization is essential. Service design can help to:
+Develop Engaging Training Programs: Service designers can collaborate with subject matter experts to develop engaging and interactive training programs that educate employees on relevant regulations and best practices for compliance.
+Create User-Friendly Compliance Resources: Design clear and concise internal documentation, such as flowcharts and checklists, to guide employees through compliance procedures.
+Establish Communication Channels: Implement internal communication channels to address employee questions and concerns regarding new regulations.
+Advocacy and Collaboration: Actively engaging with policymakers and industry stakeholders through constructive dialogue can influence the regulatory landscape and ensure that policies are practical and achievable for the industry. Service design workshops can be used to facilitate collaborative brainstorming sessions between energy companies, regulators, and consumer groups to explore solutions that balance environmental and economic considerations.
+Seizing Opportunities: Regulatory shifts often present new opportunities for growth. Companies that proactively adapt their business models to capitalize on these opportunities can gain a competitive edge. For instance, carbon pricingFor instance, carbon pricing mechanisms can incentivize investments in clean energy technologies and carbon capture solutions.
+Service Design in Action:  A service design team can collaborate with a company like Shell to develop innovative business models for carbon capture and storage (CCS) as a service. This could involve designing user-friendly interfaces for real-time monitoring of captured carbon dioxide and secure transportation pipelines. Additionally, service designers can help create communication strategies to educate industrial clients about the benefits of CCS for decarbonizing their operations.
+Examples of Additional Growth Opportunities:
+Energy Efficiency Services:  Stringent energy efficiency regulations can create a demand for energy efficiency audits and optimization solutions. Service design can help companies develop user-friendly tools for businesses to assess their energy consumption and identify areas for improvement. Additionally, service designers can co-create training programs for building operators and facility managers on energy-efficient practices.
+Decentralized Energy Solutions:  The rise of DERs opens doors for new business models. Service design can help utilities develop user-friendly platforms for managing distributed energy resources, including microgrids and rooftop solar installations. Additionally, service designers can collaborate with engineers to design innovative solutions for integrating DERs with the existing grid infrastructure.
+Cybersecurity Consulting:  With growing cybersecurity concerns, energy companies can offer cybersecurity consulting services to other businesses in the sector. Service design can help develop user-friendly cybersecurity assessment tools and training programs to equip businesses with the knowledge and tools to protect their critical infrastructure.
+
+Embracing the Future: Service Design as a Strategic Ally
+
+By embracing service design as a strategic tool, energy companies can navigate the complexities of the evolving regulatory landscape with greater agility and user-centricity. Through a focus on co-creation and understanding the unique challenges and opportunities presented by regulatory changes, service design empowers companies to not only comply with regulations but also thrive in a dynamic and ever-changing energy sector. Service design allows companies to:
+Develop a Proactive Approach: Move beyond mere compliance towards a proactive approach that identifies and capitalizes on opportunities for growth presented by regulatory shifts.
+Enhance Stakeholder Engagement: Facilitate constructive dialogue with policymakers, regulators, and consumer groups to shape regulations that are practical and beneficial for all stakeholders.
+Build a Culture of Sustainability: Integrate sustainability principles into business models and operations, contributing to a more sustainable energy future.
+
+
+In conclusion, the energy sector stands at a crossroads. Regulatory changes present both challenges and opportunities. By harnessing the power of service design, energy companies can not only navigate the regulatory labyrinth but also emerge as leaders in a sustainable and secure energy future.
+
+Conclusion with a Quote by Merleau-Ponty:
+By embracing service design and a user-centric approach, energy companies can ensure they are "not only in the world, but also of the world" (Merleau-Ponty, The Visible and the Invisible). This quote from Merleau-Ponty highlights the importance of understanding and interacting with the world around us, which is crucial for the energy sector to navigate the complexities of the future.
+
+
+
+</article>
+
+</section>
+<section class="width--medium">
+			<div>
+  					<source srcset="src/media/images/design/innovation.webp" type="image/webp">
+  					<source srcset="src/media/images/design/innovation.png" type="image/jpeg"> 
+  					<img src="src/media/images/design/innovation.png">
+	
+			</div>
+</section>
+<section>
+
+
+		
+	<article class="col--1">
+
+
+	<h2 class="weight--500">Everyone who affects design, is part of design</h2>
+		<p>Overview of an Organisation is the first step to Designing it better. Great services comes from great organisations, but even an amazingly designed organisation is never better than the people in it. </p>
+		
+
+</arcicle>
+
+	
+
+</section>
+
+
+
+<section class="width--full background--nude margin--none">
+	<section class="padding--inner--top--large margin--bottom--normal">
+		<h1>UX strategist <span>& designer.</span></h1>
+ 
+		</article>
+	</section>
+</section>
+</main>
+<footer class="background--black">
+	<section class="margin--bottom--none padding--inner--topbottom--large">
+		<h2 class="color--white">Impact driven <span>design.</span></h2>
+		<article>
+			<p class="weight--500 margin--bottom--normal color--white">SBAK</p>
+			<div class="margin--bottom--normal">
+			<h3 class="color--gray margin--none">Say hi!</h3>
+			<a href="mailto:sebastianhoeltbak@gmail.com" class="opposite-underline color--nude">email</a>
+			</div>
+			<div class="">
+				<h3 class="color--gray margin--none">Let's connect</h3>
+				<a href="https://www.linkedin.com/in/sebastianh%C3%B8ltbak/" target="_blank" class="opposite-underline color--nude">Linkedin</a>
+			</div>
+		</article>
+	</section>
+</footer>
+<script rel="preload" src="ajax/libs/jquery/1-11-0/jquery.min.js"></script>
+<script src="src/js/jquery.mousewheel.min.js"></script>
+<script src="ajax/libs/jqueryui/1-10-3/jquery-ui.min.js"></script>	
+	<script src="3-6-2/plyr.js"></script>
+<script rel="preload" src="src/js/mw2020.min.js"></script>
+</body>
+</html>
