@@ -31,6 +31,13 @@
             opacity: 0 !important;
             visibility: hidden !important;
         }
+
+        /* Temporary fix specifically for the cursor in growficient-case-study.html */
+        .circle-cursor {
+            position: fixed !important; /* Ensures it can be positioned relative to the viewport */
+            z-index: 99999 !important;  /* Puts it on top of almost everything else */
+            pointer-events: none !important; /* Ensures cursor doesn't interfere with clicks/hovers on elements beneath it */
+        }
     </style>
 <div class="circle-cursor circle-cursor--dot"></div>
 <div class="circle-cursor circle-cursor--outer"></div>
@@ -101,7 +108,8 @@
                 <li><strong>Reduced Manual Labor:</strong> Automation and remote control capabilities streamlined operations, freeing up growers' time.</li>
                 <li><strong>Proactive Problem Solving:</strong> Predictive analytics allowed growers to address potential issues before they impacted crops, minimizing losses.</li>
             </ul>
-   <p class="p--small color--gray">Selected NDA work (further details and content upon request).</p><br>        </article>
+            <p class="p--small color--gray">Selected NDA work (password - details upon request).</p>
+        </article>
     </section>
 
     <section class="width--full margin--bottom--large">
@@ -123,4 +131,15 @@
 			</div>
 			<div class="">
 				<h3 class="color--gray margin--none">Let's connect</h3>
-				<a href="
+				<a href="https://www.linkedin.com/in/sebastianh%C3%B8ltbak/" target="_blank" class="opposite-underline color--nude">Linkedin</a>
+			</div>
+		</article>
+	</section>
+</footer>
+<script rel="preload" src="ajax/libs/jquery/1-11-0/jquery.min.js"></script>
+<script src="src/js/jquery.mousewheel.min.js"></script>
+<script src="ajax/libs/jqueryui/1-10-3/jquery-ui.min.js"></script>
+<script src="3-6-2/plyr.js"></script>
+<script rel="preload" src="src/js/mw2020.min.js"></script>
+</body>
+</html>
